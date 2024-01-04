@@ -1,10 +1,9 @@
 /*************************************************************************************************************************************************
-Script  name: ex3_labw1.c                                                                                                                       
-Project name: Bits_to_Int                                                                                                                       
-Usage:./ex3_labw1
+Script  name: bits_to_int                                                                                                                                                                                                                                            
+Usage:./bits_to_int
 
-Description: This program reads an integer, i, from the keyboard  prints it in binary representation of i      
-              from the most siginmificant bit
+Description: This program reads a string of binary digits (zeros and ones)integer, and prints       
+              the corresponding integer decimal format.
 Bugs: none
 Author: Agostinho Chiau 
 **************************************************************************************************************************************************/
