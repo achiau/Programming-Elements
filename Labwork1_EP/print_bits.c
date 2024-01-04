@@ -1,7 +1,6 @@
 /*************************************************************************************************************************************************
-Script  name: ex2_labw1.c                                                                                                                       
-Project name: Print_Bits                                                                                                                        
-Usage:./ex2_labw1
+Script  name: print_bits                                                                                                                                                                                                                                           
+Usage:./print_bit
 
 Description: This program reads an integer, i, from the keyboard  prints it in binary representation of i      
               from the most siginmificant bit
