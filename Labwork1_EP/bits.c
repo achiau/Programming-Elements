@@ -1,12 +1,14 @@
 /*************************************************************************************************************************************************
-Script  name: bits                                                                                                                                                                                                                                          
-Usage:./bits
+Script  name: bits                                                                                                                                                                                                                                           
+Usage:./bits <integer>
 
-Description: This program reads an integer, i, from the keyboard  prints it in binary representation of i      
-              from the most siginmificant bit
+Description: This program its a joint of print_bits and bits_to int scripts..basicaly In this case, the needed
+             inputs (integer ) is passed as a command-line arguments
+             
 Bugs: none
 Author: Agostinho Chiau 
 **************************************************************************************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 
