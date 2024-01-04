@@ -1,3 +1,12 @@
+/*************************************************************************************************************************************************
+Script  name: print_bit                                                                                                                                                                                                                                             
+Usage:./print_bit
+
+Description: This program reads an integer, i, from the keyboard and a bit position ,p, and  prints  the corresponding value 
+             of that bit in the binary representation of i; (was considere p=0, which corresponds the position of the least significant bit)
+Bugs: none
+Author: Agostinho Chiau 
+**************************************************************************************************************************************************/
 
 
 #include <stdio.h>
