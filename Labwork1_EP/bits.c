@@ -1,4 +1,12 @@
+/*************************************************************************************************************************************************
+Script  name: bits                                                                                                                                                                                                                                          
+Usage:./bits
 
+Description: This program reads an integer, i, from the keyboard  prints it in binary representation of i      
+              from the most siginmificant bit
+Bugs: none
+Author: Agostinho Chiau 
+**************************************************************************************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 
